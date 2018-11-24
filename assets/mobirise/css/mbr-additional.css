@@ -1510,6 +1510,7 @@ body {
 }
 .cid-ragECK9s1M H2 {
   text-align: left;
+  color: #232323;
 }
 .cid-ra8JgGQcQy {
   padding-top: 90px;
@@ -1597,6 +1598,9 @@ body {
   .cid-ra8JgGQcQy .reverse .timeline-text-content {
     margin-right: 0 !important;
   }
+}
+.cid-ra8JgGQcQy .mbr-timeline-text {
+  color: #232323;
 }
 .cid-ra8JCNNHFb {
   padding-top: 90px;
